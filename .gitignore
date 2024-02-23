@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+######### MY GITIGNORE #########
+output.mp4
+What Does High-Quality Preschool Look Like  NPR Ed.mp4
+
+################################
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
