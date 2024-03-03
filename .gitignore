@@ -2,12 +2,13 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 ######### MY GITIGNORE #########
-output*.mp4
+output*
 What Does High-Quality Preschool Look Like  NPR Ed.mp4
 Why It’s Usually Hotter In A City  Lets Talk  NPR.mp4
 How Green Roofs Can Help Cities  NPR.mp4
 runs
 yolo*
+result
 ################################
 
 ### Python ###
